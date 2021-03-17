@@ -160,6 +160,7 @@ Organizers: Omprakash Sonie, Muthusamy Chelliah and Shamik Sural, The Web Confer
 
 
 ### Datasets
+* [FashionAI dataset overview](https://github.com/AemikaChow/DATASOURCE)
 * [Large-scale Fashion (DeepFashion)](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 * [Street2Shop](http://www.tamaraberg.com/street2shop/)
 * [Fashionista](http://vision.is.tohoku.ac.jp/~kyamagu/research/clothing_parsing/)
